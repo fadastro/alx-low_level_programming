@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
- *program that prints string
- *
+ *main - is function that prints string
+ *@printf: prints stringand newline
+ *@return: returns 0
  */
 int main(void)
 {

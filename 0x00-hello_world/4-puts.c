@@ -1,7 +1,13 @@
 #include <stdio.h>
 /**
- *main - main block
+ *main - the main running block
  *return: 0
+ */
+
+/**
+ * main - to print string
+ * @void: nothing to return
+ * 
  */
 int main(void)
 {

@@ -6,11 +6,10 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
+/**
 * main - Entry point
-* Description - the fuction check n if is negative or positive
-* @return - Always 0 (Success)
-* return - 0
+* description - the fuction check n if is negative or positive
+* Return: Always 0 (Success)
 */
 int main(void)
 {

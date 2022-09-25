@@ -4,6 +4,7 @@
 * Auth: Farai Simba
 */
 #include <stdlib.h>
+#include <stdio.h>
 
 /**
 * main - Prints the alphabets in lowercase, and the in uppercase.

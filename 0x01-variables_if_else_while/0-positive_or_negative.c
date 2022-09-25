@@ -2,12 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * This program check if a number is a negative, positve or zero
+ * 0-positive_or_negative
+ * Description - This program return the number if is negative or positive
  */
 
 /**
  * main - returns 0
- *@void: 
+ *@main: returns 0
  */
 int main(void)
 {

@@ -2,7 +2,7 @@
 * File: 0-putchar.c
 * Auth: Farai Simba
 */
-#include <main.h>
+#include "main.h"
 /**
  * main - Entry point
  * description - this program print _putchar
